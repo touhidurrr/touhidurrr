@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am Md. Touhidur Rahman from Dhaka, Bangladesh! Glad to find you here!
 
-![](https://komarev.com/ghpvc/?username=touhidurrr)![](https://hit.yhype.me/github/profile?user_id=46617994)
+![](https://komarev.com/ghpvc/?username=touhidurrr&style=flat-square)![](https://hit.yhype.me/github/profile?user_id=46617994)
 <!--
 **touhidurrr/touhidurrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
