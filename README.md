@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am Md. Touhidur Rahman from Dhaka, Bangladesh! Glad to find you here!
 
-**Open for Work!** Contact me it you want to hire me!!
+**Open for Work!** Contact me at the addresses listed below:
 
 Contact:
 - 📫: latereply.github-profile@touhidur.tech
