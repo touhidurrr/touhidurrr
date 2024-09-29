@@ -4,6 +4,6 @@ I am Md. Touhidur Rahman from Dhaka, Bangladesh! Glad to find you here!
 For technical assistance, contact me at the addresses listed below:
 
 Contact:
-- 📫: latereply.github-profile@touhidur.pro
+- 📫: github@touhidur.pro
 
 ![](https://komarev.com/ghpvc/?username=touhidurrr&style=flat-square)![](https://hit.yhype.me/github/profile?user_id=46617994)
